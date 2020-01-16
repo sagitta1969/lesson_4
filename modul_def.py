@@ -1,6 +1,7 @@
 from random import randint
 from functools import reduce
 from math import factorial
+from itertools import count, cycle
 
 
 def calculation_salary(clok, tarif, bonus):
